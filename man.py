@@ -1,2 +1,2 @@
-print"hello good evening"
-print"manish"
+print("hello good evening")
+print("manish")
